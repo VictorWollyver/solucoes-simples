@@ -21,7 +21,7 @@ Uma página para solucionar 3 tipos de problemas simples, como:
 
 # Autor
 
-Victor Wollyver Desenvolvedor Web
+Victor Wollyver Desenvolvedor Web!
 
 - <a href="mailto:victorwollyver50@gmail.com">Gmail</a>
 - <a href="https://api.whatsapp.com/send?phone=5519981171034">WhatsApp</a>
